@@ -18,8 +18,6 @@ styles.css defines the layout and styles for the page elements, mimicking the Yo
 The page displays a video thumbnail, play/pause button, progress bar, and volume control.
 
 
-Adding screenshots of the page playing the video. This will give viewers an idea of how the page looks and functions.
-
 ## THANK YOU :)
 ##
 ## ![screen shot](SS.png)

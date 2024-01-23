@@ -13,7 +13,7 @@ video.mp4: A sample video file included for demonstration purposes.
 
 ## How it Works:
 
-The page.html file embeds the video.mp4 using an <video> element.
+The page.html file embeds the video.mp4 using an <video> element.!
 styles.css defines the layout and styles for the page elements, mimicking the YouTube interface.
 The page displays a video thumbnail, play/pause button, progress bar, and volume control.
 
